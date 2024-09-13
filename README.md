@@ -48,7 +48,7 @@ An interactive and visually appealing calculator application developed as part o
 
 ## Demo
 
-![Calculator Demo](link-to-demo-image-or-screenshot)
+![Calculator Demo](https://github.com/CrazAr374/Code_Alpha_Calculator/blob/main/Calc.png)
 
 ## Contributing
 
